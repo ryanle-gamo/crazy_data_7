@@ -1,0 +1,12 @@
+{
+    "latest_version":"1.0.0",
+    "is_admob":true,
+    "version":"ALPHA",
+    "category_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_7/master/draw_famous_people/draw_famous_people_category.json",
+    "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_7/master/draw_for_children/draw_famous_people_category_alpha.json",
+    "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_7/master/draw_famous_people/",
+    "google_analytic_id":"",
+    "admob_banner_id":"",
+    "admob_interstitial_id":"",
+    "itune_url":"###"
+}
