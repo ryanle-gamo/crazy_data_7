@@ -992,7 +992,7 @@
                               ]
                    },{
                    "category_id": "3005",
-                   "category_name": "Game of Thrones 203",
+                   "category_name": "Game of Thrones",
                    "category_thumbnail": "3005.png",
                    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_7/master/draw_famous_people/",
                    "file_extension": "png",
@@ -1150,401 +1150,181 @@
                               ]
                    },{
                    "category_id": "3006",
-                   "category_name": "Kim Kardashian 226",
+                   "category_name": "Kim Kardashian",
                    "category_thumbnail": "3006.png",
                    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_7/master/draw_famous_people/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
                               "anime_id": "1",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Kim Kardashian",
+                              "anime_step":11
                               },
                               {
                               "anime_id": "2",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Kim with Red Lipstick",
+                              "anime_step":11
                               },
                               {
                               "anime_id": "3",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Kim in Swimsuit",
+                              "anime_step":14
                               },
                               {
                               "anime_id": "4",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Kim Kardashian Blonde",
+                              "anime_step":10
                               },
                               {
                               "anime_id": "5",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Kim in White Sweater",
+                              "anime_step":11
                               },
                               {
                               "anime_id": "6",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Kim with Cake",
+                              "anime_step":12
                               },
                               {
                               "anime_id": "7",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Kim for Elle 2015",
+                              "anime_step":13
                               },
                               {
                               "anime_id": "8",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Kim in Black Dress",
+                              "anime_step":13
                               },
                               {
                               "anime_id": "9",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Kim with a Bang",
+                              "anime_step":11
                               },
                               {
                               "anime_id": "10",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "11",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "12",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "13",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "14",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "15",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "16",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "17",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "18",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "19",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "20",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "21",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "22",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "23",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "24",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "25",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Kim on Bet Honors 2015",
+                              "anime_step":11
                               }
                               ]
                    },{
                    "category_id": "3007",
-                   "category_name": "Justin Bieber 104",
+                   "category_name": "Justin Bieber",
                    "category_thumbnail": "3007.png",
                    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_7/master/draw_famous_people/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
                               "anime_id": "1",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Hollywood Reporter 2013",
+                              "anime_step":9
                               },
                               {
                               "anime_id": "2",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Teen Vogue 2013",
+                              "anime_step":8
                               },
                               {
                               "anime_id": "3",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Adidas Neo 2013",
+                              "anime_step":8
                               },
                               {
                               "anime_id": "4",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Photoshoot 2013",
+                              "anime_step":8
                               },
                               {
                               "anime_id": "5",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Music Video All That Matters",
+                              "anime_step":8
                               },
                               {
                               "anime_id": "6",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Rolling Stone Magazine 2012",
+                              "anime_step":8
                               },
                               {
                               "anime_id": "7",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Pencils Of Promise 2013",
+                              "anime_step":9
                               },
                               {
                               "anime_id": "8",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "MTV EMA 2013",
+                              "anime_step":8
                               },
                               {
                               "anime_id": "9",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Music Video Wait For A Minute",
+                              "anime_step":8
                               },
                               {
                               "anime_id": "10",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Justin On Stage",
+                              "anime_step":9
                               },
                               {
                               "anime_id": "11",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "12",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "13",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "14",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "15",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "16",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "17",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "18",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "19",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "20",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "21",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "22",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "23",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "24",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "25",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Justin Bieber",
+                              "anime_step":20
                               }
                               ]
                    },{
                    "category_id": "3008",
-                   "category_name": "Miley Cyrus 105",
+                   "category_name": "Miley Cyrus",
                    "category_thumbnail": "3008.png",
                    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_7/master/draw_famous_people/",
                    "file_extension": "png",
                    "is_video": "false",
                    "animes": [{
                               "anime_id": "1",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "American Music Awards 2013",
+                              "anime_step":10
                               },
                               {
                               "anime_id": "2",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "V Magazine Summer 2013",
+                              "anime_step":10
                               },
                               {
                               "anime_id": "3",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "ELLE UK June 2013",
+                              "anime_step":9
                               },
                               {
                               "anime_id": "4",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Music Video Wrecking Ball",
+                              "anime_step":9
                               },
                               {
                               "anime_id": "5",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Movie - So Undercover",
+                              "anime_step":10
                               },
                               {
                               "anime_id": "6",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Fashion November 2013",
+                              "anime_step":9
                               },
                               {
                               "anime_id": "7",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Studio Photo By Terry Richardson",
+                              "anime_step":10
                               },
                               {
                               "anime_id": "8",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Movie - L.O.L.",
+                              "anime_step":9
                               },
                               {
                               "anime_id": "9",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Laughing",
+                              "anime_step":14
                               },
                               {
                               "anime_id": "10",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "11",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "12",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "13",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "14",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "15",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "16",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "17",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "18",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "19",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "20",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "21",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "22",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "23",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "24",
-                              "anime_name": "",
-                              "anime_step":
-                              },
-                              {
-                              "anime_id": "25",
-                              "anime_name": "",
-                              "anime_step":
+                              "anime_name": "Miley Cyrus 2012",
+                              "anime_step":20
                               }
                               ]
                    }]
